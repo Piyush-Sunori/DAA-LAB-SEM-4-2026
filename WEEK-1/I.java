@@ -17,7 +17,7 @@ Input:                                      Output:
 63                                          NotPresent 6 
 */
 import java.util.*;
-class I{
+public class I{
     public static int linearSearch(ArrayList<Integer> array,int key){
         int ctr=0;
         for(int i:array){
